@@ -315,7 +315,7 @@ a {
     width: 90%;
     margin: auto;
     font-size: 22px;
-    background-color: crimson;
+    /* background-color: crimson; */
 }
 button#ret {
     height: 70px;
